@@ -30,8 +30,8 @@ main {
 }
 
 .nametag {
-    background: red;
-    color: white;
+    background: aqua;
+    color: black;
     padding-bottom: 10px;
     width: 400px;
     text-align: center;
@@ -39,6 +39,7 @@ main {
 
 .greeting {
     text-transform: uppercase;
+    font-family: Georgia;
     font-size: 4em;
     font-weight: bolder;
     padding: 10px;
