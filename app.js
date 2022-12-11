@@ -11,3 +11,4 @@ button.addEventListener('click', () => {
     nameDisplay.textContent = nameInput.value;
     nameDisplay.style.color = 'blue';
 });
+//test
