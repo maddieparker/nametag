@@ -32,6 +32,7 @@ main {
 
 .nametag {
     background: #FFBFDF;
+    border:5px solid black; 
     color: black;
     padding-bottom: 10px;
     width: 500px;
