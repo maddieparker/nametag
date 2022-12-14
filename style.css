@@ -30,7 +30,9 @@ main {
     justify-content: center;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace; 
-    font-size: 16pt;
+    font-size: 20pt;
+    font-weight: bolder;
+    text-align: center;
 }
 
 .nametag {
@@ -45,7 +47,7 @@ main {
 .greeting {
     text-transform: uppercase;
     font-family: Georgia;
-    font-size: 4em;
+    font-size: 3em;
     font-weight: bolder;
     padding: 20px;
     margin: 0;
