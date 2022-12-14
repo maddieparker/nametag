@@ -25,6 +25,9 @@ header .logo {
 }
 
 main {
+    display: grid;
+    align-content: center;
+    justify-content: center;
     padding: 10px;
     font-family: 'Courier New', Courier, monospace; 
     font-size: 16pt;
